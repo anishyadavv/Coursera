@@ -15,6 +15,7 @@
   .menu{
     text-align: center;
     margin-bottom: 30px;
+    color: green;
   }
   
   .container{
@@ -26,7 +27,7 @@
   .item{
     position: relative;
     top: 0;
-    background-color:#999999;
+    background-color:rgb(81, 0, 156);
     margin: 15px;
     padding: 25px;
     border: 3px solid #000;
@@ -36,28 +37,28 @@
     margin-top: 18px;
     text-align: justify;
     font-size:100%;
+    color: white;
   }
   
   .item-title{
     position: absolute;
     top:0;
-    right: 0px;
-    background: green; 
+    right: 0px; 
     padding: 6px 90px;
     border-left: 2px solid #000;
     border-bottom: 2px solid #000;
   }
   
   #chicken {
-    background-color: #D59898;
+    background-color: red;
   } 
   
   #beef{
-    background-color: #C14543;
+    background-color: pink;
   }
   
   #sushi{
-    background-color: #E5D198;
+    background-color: yellow;
   }
   
   /* Simple Responsive Framework.*/
